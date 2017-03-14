@@ -4,11 +4,15 @@ This repository contains backup archive of Grafana dashboards nested on https://
 
 Dashboards - JSON files, are generated and uploaded by grafana_simple_backup.py script (located on Grafana host).
 
+
+
 Backup details:
 
 Script and its dependencies managed by Puppet: see gerrit.ecg.so:29418/ecg-puppet.git for details.
 
 Dashboard will not be deleted from repository even if it deleted from Grafana.
+
+
 
 
 Import (restore) details:
