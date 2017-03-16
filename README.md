@@ -13,6 +13,6 @@ Dashboards from different Grafana hosts tagged with domain prefix in it's name.
 To import a dashboard open dashboard search and then hit the import button.
 From here you can paste dashboard 'json text' directly into the text area.
 'Json text' here is raw content of any archived dashboard file.
-Example: 
-```https://github.corp.ebay.com/bt-siteops/grafana_dashboards/raw/master/phx.ops.prod.bt.ecg.so.capi-phx```
 
+Example: 
+``` https://github.corp.ebay.com/bt-siteops/grafana_dashboards/raw/master/phx.ops.prod.bt.ecg.so.capi-phx ```
